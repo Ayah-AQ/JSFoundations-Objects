@@ -76,7 +76,7 @@ return channels.find(n => channelName === n.name);
 
 function getChannelByVideoTitle(videoTitle, channels) {
   // Your code here
-  return channels.find(channel => channel.videos.some(video => videoTitle === video.title) === true);
+  return channels.find(channel => channelHasVideo(videoTitle, channel) === true);
      
 }
 console.log(getChannelByVideoTitle("The Universal S", channels));
