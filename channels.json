@@ -1,5 +1,5 @@
 [
-  {
+   {
     "name": "PowerfulJRE",
     "description": "The Joe Rogan Experience podcast",
     "videos": [
@@ -25,7 +25,7 @@
       }
     ]
   },
-  {
+   {
     "name": "LEMMiNO",
     "description": "Documentaries and list videos narrated by a 20-something Swedish guy.",
     "videos": [
@@ -48,7 +48,7 @@
       }
     ]
   },
-  {
+ {
     "name": "CGP Grey",
     "description": "What ever I finds interesting.",
     "videos": [
@@ -110,7 +110,7 @@
       }
     ]
   },
-  {
+{
     "name": "Example and Ample",
     "description": "Some things are better left unsaid.",
     "videos": [
